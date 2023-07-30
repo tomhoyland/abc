@@ -11,6 +11,7 @@ What's so cool about it?
 3) You can have more than one ABC, and you can stack them. ABC as a tool is designed to be small and compact. We know that big things often come from small changes. And smaller changes are easier to visualise, convey, decide on the steps to get there, make progress towards, measure that progress and see the result. We can also abandon them quicker if they're not right for us. So like a big Epic, it's useful to break down a big ABC into smaller ABCs. ABCs can be stacked in a linear way, where one ABC leads to another. That means when you achieve one, you achieve something. That's banked and a foundation to build on for the next one. You never lose it. Or you can have multiple ABCs taking place at any one time. This might be more useful in an organisation context, where you aim want to achieve a much larger change of state that requires multiple levels of achievement and outcome that ladder into each other, becoming greater than the sum of their parts. Remember, bigger isn't always better and simple is easy to convey. 
 
 The A - What do you want to Achieve?
+  
   Consider, right now...
   What state would you like to change?
   What Action would you like to be able to take that you can't?
