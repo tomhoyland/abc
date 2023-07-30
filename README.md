@@ -2,7 +2,7 @@
 
 **What is it?**
 
-ABC is intended to be a lightweight coaching, mentoring and consulting tool. It can be used at a variety of levels, from one-on-one coach/client work to team(s) and in large-scale organisational change. It provides a quick and clear way to assess the vision or target state a client would like to Achieve that enables them to reach an outcome and then looks back to what is needed to enable that. 
+ABC is intended to be a lightweight coaching, mentoring and consulting tool. It can be used at a variety of levels, from one-on-one coach/client work to team(s) and in large-scale organisational change. It provides a quick and clear way to assess the vision or target state a client would like to Achieve that enables them to reach an outcome and then looks back to what is needed to enable that.  
 
 ABC builds on the concept that in order to achieve an outcome or form of change, be it personal or organizational, it is necessary to invest energy in creating and changing both '_Behaviours_' and '_Capabilities_' or structures. 
   - **Behaviours** are internal to you and me. They are the things we pay attention to, how we see the world, the choices we make, our biases, decision-making processes and proclivities. Behaviours can sometimes be intrinsic motivators.
