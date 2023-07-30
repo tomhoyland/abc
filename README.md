@@ -36,3 +36,8 @@ C) The C - Capabilities
     - What Processes? Metrics? Rules? Policies? Reward and Recognition systems? Organisational Structures? Tools? Information? Technologies? Money? 
   - What kind(s) of changes are these? Doing more of something? Doing less of something? Stopping something? Starting something?
   - Do these changes move us closer towards or further away from where we want to go?
+
+
+Limitations and Notes
+1) This does not consider 'the Why' a person, team or organisation would like to Achieve something. That is for the client and coach to understand as part of the work they do. ABC is only concerned with the path to get there. ABC can be used at any time in a coaching conversation, but a coach should be mindful to avoid a premature move to action and change before the Problem and Person are understood.
+2) Are the Behaviours and Capabilities right for the client?
