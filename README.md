@@ -1,5 +1,6 @@
 **ABC Change Model**
 
+
 **What is it?**
 
 ABC is intended to be a lightweight coaching, mentoring and consulting tool. It can be used at a variety of levels, from one-on-one coach/client work to team(s) and in large-scale organisational change. It provides a quick and clear way to assess the vision or target state a client would like to Achieve that enables them to reach an outcome and then looks back to what is needed to enable that.  
@@ -20,9 +21,10 @@ For us to support changes in Behaviour, is it often necessary to create, acquire
 > We shape our tools and, in turn, our tools shape us.
 
 A critical presupposition within ABC is that Behaviours support Capabilities and Capabilities support Behaviours. There is no linear cause and effect between one and the other. They are seen as entangled and symbiotic. 
-_So why not call it ACB?_ ACB doesn't have the same ring to it as ABC.  :) 
+  - _So why not call it ACB?_ ACB doesn't have the same ring to it as ABC.  :) 
 
 When we invest in one in isolation from the other an imbalance or debt can occur, e.g. increased energy is directed towards changes in Behaviour to compensate for the insufficient investment made in changing Capabilities. This might create a scenario where excessive amounts of internal energy, and intrinsic motivation are being invested in maintaining a system, way of working, compensating for the absent structures. Alternatively, a situation might occur where changes are made to processes, tools and Capabilities, but without sufficient investment in changes to Behaviours to support their effective use, resulting in superficial changes to Behaviours, which when the Capabilities are reduced or removed, simply regress.
+
 
 
 **Quick Start Guide**
@@ -58,11 +60,13 @@ When we invest in one in isolation from the other an imbalance or debt can occur
   - Do these changes move us closer towards or further away from what we want to Achieve?
 
 
+
 **What's so cool about it?**
 
 1) ABC aims to be simple. It can help coaches and clients to structure thinking and conversation when working one-on-one, avoiding breaking the flow of coaching conversations (nobody wants that) to draw or illustrate, consultants can quickly draw it on a bar napkin to frame a conversation with an exec (should they find themselves in a bar), and facilitators can use it to on a flipchart or whiteboard when facilitating an event.
 3) ABC can be used in different contexts and is complementary. It doesn't have prerequisites or form part of any framework. If you like using techniques like Clean Language you can add them into ABC. Like Co-Active Coaching? Sure, supplement ABC with Co-Active too - it doesn't care. When working in a team, product or technology context, ABC can complement other tools such as Impact Mapping and User Story Mapping, shaping work, clarifying or expanding. The end goal isn't ABC, the end goal is helping clients clarify what they need on their path to their end goal.
 4) ABC can be sliced, lined up and stacked. ABC as a tool is designed to be small and compact. We know that big things often come from small changes. And smaller changes are easier to visualise, convey, decide on the steps to get there, make progress towards, measure that progress and see the result. We can abandon smaller things quicker if they're not right for us, don't feel right or the destination has changed. So like a large Epic that can be broken into smaller User Stories, it's possible to break down a large ABC into smaller ABCs. ABCs can be stacked in a linear way, where one ABC leads to another. That means when you achieve one, you achieve something. That's banked and a foundation to build on for the next one. You never lose it, it's great for measuring progress and it's great for the client. Or you can have multiple ABCs taking place at any one time. This might be more useful in an organisation context, where you aim want to achieve a much larger change of state that requires multiple levels of achievement and outcome that ladder into each other, becoming greater than the sum of their parts. Remember, bigger isn't always better and simple is easy to convey. 
+
 
 
 **Limitations and Notes**
