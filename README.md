@@ -12,7 +12,7 @@ What's so cool about it?
 
 A) The A - What do you want to Achieve?
   
-  Consider, right now...
+  _Consider, right now..._
   
   - What state would you like to change?
   - What action would you like to be able to take that you can't?
@@ -21,7 +21,7 @@ A) The A - What do you want to Achieve?
 
 B) The B - Behaviours
 
-  So, to get there, consider...
+  _So, to get there, consider..._
   
   - What behaviours need to change, be it in yourself, your team or your organisation 
     - Biases? Decision Making? What we pay attention to? Where we spend our time? Diet? Energy?
@@ -30,7 +30,7 @@ B) The B - Behaviours
 
 C) The C - Capabilities
 
-  So, to get there, consider...
+  _So, to get there, consider..._
  
   - What Capabilities and Resources need to change, whether they are in your own control, your teams or your organisations?
     - What Processes? Metrics? Rules? Policies? Reward and Recognition systems? Organisational Structures? Tools? Information? Technologies? Money? 
