@@ -10,7 +10,11 @@ ABC builds on the concept that in order to achieve an outcome or form of change,
       - _Why not just call them structures? Structures didn't begin with a 'C'._
   - **Capabilities** are things that are external to you and me. They are more often than not tangible and sometimes physical - such as rules, processes, organisational structures, money, metrics, resources, tools and technologies. Capabilities can sometimes be extrinsic motivators.
 
-For us to successfully Achieve a sustained change towards an outcome, the ABC model posits that it is necessary for changes to take place to both Behaviours and Capabilities. When we treat one in isolation from the other an imbalance or debt can occur, e.g. whereby increased energy is directed towards changes in Behaviour to compensate for the insufficient investment made in changing Capabilities. Likewise, underinvestment in changes to Behaviour may result in increased investment in Capabilities, which change Behaviour but only at a surface level. 
+For us to successfully Achieve a sustained change towards an outcome, the ABC model posits that it is necessary for changes to take place to both Behaviours and Capabilities. For us to take advantage of new resources, tools, processes and information, we often need to change our Behaviours, and through the availability of new Capabilities our Behaviours themselves are changed.
+
+> We shape our tools and, in turn, our tools shape us.
+
+,  to change our behaviours  One supports the other. When we treat one in isolation from the other an imbalance or debt can occur, e.g. whereby increased energy is directed towards changes in Behaviour to compensate for the insufficient investment made in changing Capabilities. Likewise, underinvestment in changes to Behaviour may result in increased investment in Capabilities, which change Behaviour but only at a surface level. 
 
 
 , , it is necessary to not only change our  change not just our tools, processes and resources (our Capabilities), but also how we interact with them - ourselves and the human side of change (our Behaviours). We (A)chieve our outcomes by developing (B)ehaviours and (C)apabilities - ABC.
@@ -39,7 +43,7 @@ For us to successfully Achieve a sustained change towards an outcome, the ABC mo
   - What behaviours need to change, be it in yourself, your team or your organisation 
     - Biases? Decision Making? What we pay attention to? Where we spend our time? Diet? Energy?
   - What kind of changes are these? Doing more of something? Doing less of something? Stopping something? Starting something?
-  - Do these changes move us closer towards or further away from where we want to go?
+  - Do these changes move us closer towards or further away from what we want to Achieve?
 
 **C) The C - Capabilities**
   
@@ -48,7 +52,7 @@ For us to successfully Achieve a sustained change towards an outcome, the ABC mo
   - What Capabilities and Resources need to change, whether they are in your own control, your teams or your organisations?
     - What Processes? Metrics? Rules? Policies? Reward and Recognition systems? Organisational Structures? Tools? Information? Technologies? Money? 
   - What kind(s) of changes are these? Doing more of something? Doing less of something? Stopping something? Starting something?
-  - Do these changes move us closer towards or further away from where we want to go?
+  - Do these changes move us closer towards or further away from what we want to Achieve?
 
 
 **Limitations and Notes**
