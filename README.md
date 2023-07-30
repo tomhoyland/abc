@@ -51,7 +51,7 @@ When we invest in one in isolation from the other an imbalance or debt can occur
   
   _So, to get there, consider..._
  
-  - What Capabilities and Resources need to change, whether they are in your own control, your teams or your organisations?
+  - What Capabilities, structures or resources need to change, whether they are in your own control, your teams or your organisations?
     - What Processes? Metrics? Rules? Policies? Reward and Recognition systems? Organisational Structures? Tools? Information? Technologies? Money?
     - **What do you need** to get there?
   - What kind(s) of changes are these? Doing more of something? Doing less of something? Stopping something? Starting something?
