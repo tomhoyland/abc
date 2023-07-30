@@ -24,6 +24,7 @@ For us to successfully Achieve a sustained change towards an outcome, the ABC mo
 **Quick Start Guide**
 
 **A) The A - What do you want to Achieve?**  
+  
   _Consider, right now..._
   
   - What state would you like to change?
@@ -32,6 +33,7 @@ For us to successfully Achieve a sustained change towards an outcome, the ABC mo
   - What needs to be in place for you to be able to - enter, compete in, or excel in that market?
 
 **B) The B - Behaviours**
+  
   _So, to get there, consider..._
   
   - What behaviours need to change, be it in yourself, your team or your organisation 
@@ -40,6 +42,7 @@ For us to successfully Achieve a sustained change towards an outcome, the ABC mo
   - Do these changes move us closer towards or further away from where we want to go?
 
 **C) The C - Capabilities**
+  
   _So, to get there, consider..._
  
   - What Capabilities and Resources need to change, whether they are in your own control, your teams or your organisations?
