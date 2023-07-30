@@ -22,9 +22,8 @@ ABC builds on the concept that to achieve an outcome or form of change, be it pe
 
 For us to successfully Achieve a sustained change towards an outcome, the ABC model posits that changes must take place to both Behaviours and Capabilities. One supports the other. 
 
-For us to take advantage of new or changed Capabilities, e.g. resources, tools, processes and information, we often need to change our Behaviours. Through the availability of new Capabilities, our Behaviours themselves are changed. 
-
-For us to support changes in Behaviour, is it often necessary to create, acquire, change or develop Capabilities that provide us with structures, processes, information or external motivators. As our Behaviours change, so do our needs for the Capabilities that support them.
+  - For us to take advantage of new or changed Capabilities, e.g. resources, tools, processes and information, we often need to change our Behaviours. Through the availability of new Capabilities, our Behaviours themselves are changed. 
+  - For us to support changes in Behaviour, is it often necessary to create, acquire, change or develop Capabilities that provide us with structures, processes, information or external motivators. As our Behaviours change, so do our needs for the Capabilities that support them.
 
 > We shape our tools and, in turn, our tools shape us.
 
