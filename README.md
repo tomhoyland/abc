@@ -7,17 +7,22 @@ ABC is intended to be a lightweight coaching, mentoring and consulting tool. It 
 ABC builds on the concept that in order to achieve an outcome or form of change, be it personal or organizational, it is necessary to invest energy in creating and changing both '_Behaviours_' and '_Capabilities_' or structures. 
   - **Behaviours** are internal to you and me. They are the things we pay attention to, how we see the world, the choices we make, our biases, decision-making processes and proclivities. Behaviours can sometimes be intrinsic motivators.
     - Behaviours are supported and strengthened by external structures - termed Capabilities.
-      - _Why not just call them structures?_ Structures didn't begin with a 'C'  :) 
+      - _Why not just call them structures?_ Structures didn't begin with a 'C'.   :) 
   - **Capabilities** are things that are external to you and me. They are more often than not tangible and sometimes physical - such as rules, processes, organisational structures, money, metrics, resources, tools and technologies. Capabilities can sometimes be extrinsic motivators.
 
-For us to successfully Achieve a sustained change towards an outcome, the ABC model posits that it is necessary for changes to take place to both Behaviours and Capabilities. For us to take advantage of new resources, tools, processes and information, we often need to change our Behaviours, and through the availability of new Capabilities, our Behaviours themselves are changed.
+For us to successfully Achieve a sustained change towards an outcome, the ABC model posits that it is necessary for changes to take place to both Behaviours and Capabilities, as one supports the other. 
+
+For us to take advantage of new or changed Capabilities, e.g. resources, tools, processes and information, we often need to change our Behaviours. Through the availability of new Capabilities, our Behaviours themselves are changed. 
+
+For us to support changes in Behaviour, is it often necessary to create, acquire, change or develop Capabilities that provide us with structures, processes, information or external motivators. 
 
 > We shape our tools and, in turn, our tools shape us.
 
-,  to change our behaviours  One supports the other. When we treat one in isolation from the other an imbalance or debt can occur, e.g. whereby increased energy is directed towards changes in Behaviour to compensate for the insufficient investment made in changing Capabilities. Likewise, underinvestment in changes to Behaviour may result in increased investment in Capabilities, which change Behaviour but only at a surface level. 
+A critical presupposition within ABC is that Behaviours support Capabilities and Capabilities support Behaviours. There is no linear cause and effect between one and the other. They are seen as entangled and symbiotic. 
+_So why not call it ACB?_ ACB doesn't have the same ring to it as ABC.  :) 
 
+When we invest in one in isolation from the other an imbalance or debt can occur, e.g. increased energy is directed towards changes in Behaviour to compensate for the insufficient investment made in changing Capabilities. This might create a scenario where excessive amounts of internal energy, and intrinsic motivation are being invested in maintaining a system, way of working, compensating for the absent structures. Alternatively, a situation might occur where changes are made to processes, tools and Capabilities, but without sufficient investment in changes to Behaviours to support their effective use, resulting in superficial changes to Behaviours, which when the Capabilities are reduced or removed, simply regress.
 
-, , it is necessary to not only change our  change not just our tools, processes and resources (our Capabilities), but also how we interact with them - ourselves and the human side of change (our Behaviours). We (A)chieve our outcomes by developing (B)ehaviours and (C)apabilities - ABC.
 
 **What's so cool about it?**
 
