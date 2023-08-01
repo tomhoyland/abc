@@ -1,12 +1,12 @@
 **ABC Change Model**
 
-_ACHIEVE, BEHAVIOURS, CAPABILITIES **(ABC)** is a small tool created to help coaches, mentors, consultants and their clients quickly and clearly understand what changes in **BEHAVIOURS** and **CAPABILITIES** are needed to sustainably **ACHIEVE** an outcome, with minimal effort and explanation. **ABC** is designed to be simple and small enough to fit on a bar napkin but can easily scale to be used in a range of contexts._
+_The ACHIEVE, BEHAVIOURS, CAPABILITIES **(ABC)** Change Model is a small tool created to help coaches, mentors, consultants and their clients quickly and clearly understand what changes in **BEHAVIOURS** and **CAPABILITIES** are needed to sustainably **ACHIEVE** an outcome, with minimal effort and explanation. **ABC** is designed to be simple and small enough to fit on a bar napkin but can easily scale to be used in a range of contexts._
 
 
 
 **What is it?**
 
-**ABC** is intended to be a lightweight and memorable coaching, mentoring and consulting tool. It can be used at a variety of levels, from one-on-one coach/client work, within and across teams, and in large-scale organisational change. **ABC** provides a quick and clear way to assess the vision, or target state a client would like to ACHIEVE, that enables them to reach an outcome and then looks at what is needed to enable that.  
+**ABC** is intended to be a lightweight and memorable coaching, mentoring and consulting tool. It can be used at a variety of levels, from one-on-one coach/client work, within and across teams, and in large-scale organisational change. **ABC** provides a quick and clear way to assess the vision or target state a client would like to ACHIEVE, that enables them to reach an outcome and then looks at what is needed to enable that.  
 
 
 
