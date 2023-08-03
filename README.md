@@ -65,7 +65,7 @@ But it doesn't end there. It's also possible that as a client unpacks and unders
   - Do these move us closer towards or further away from what we want to ACHIEVE?
   - What BEHAVIOURS need to change or be encouraged in you, your team or your organisation to move us closer to what you want to ACHIEVE?
     - What kind(s) of changes are these? Doing more of something? Doing less of something? Stopping something? Starting something?
-  - _**This is How we get there**_
+  - _**This is HOW we get there with WHAT we have**_
 
   _Now you know this, consider what CAPABILITIES are needed to support these BEHAVIOURS?_
 
@@ -79,7 +79,7 @@ But it doesn't end there. It's also possible that as a client unpacks and unders
   - Do these move us closer towards or pull us further away from what we want to ACHIEVE?
   - What CAPABILITIES need to change, whether they are in your control, your teams or your organisations, to move us closer to what you want to ACHIEVE?
     - What kind(s) of changes are these? Changing something? Obtaining Something? Doing more of something? Doing less of something? Stopping something? Starting something?
-  - _**This is WHAT we get there**_
+  - _**This is WHAT we need to support HOW get there**_
 
   _Now you know this, consider what BEHAVIOURS are needed to utilise these CAPABILITIES?_
 
