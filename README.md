@@ -20,9 +20,9 @@ Facilitators, Coaches, Mentors, Consultants, Product Managers, Mentors, Leaders,
 
 **ABC** builds on the concept that to ACHIEVE an outcome or form of change, be it personal or organisational, it is necessary to invest energy in creating and changing both _BEHAVIOURS_ and _CAPABILITIES_. 
   - **BEHAVIOURS** are internal to you and me.
-  -   They are the things we pay attention to, how we see the world, the choices we make, our biases, decision-making processes and proclivities.
-  -   BEHAVIOURS can sometimes be intrinsic motivators, but they can often be seen and demonstrated.
-  -   As long as we are here, our Behaviours exist. When we are no longer here, neither are our Behaviours.
+    -   They are the things we pay attention to, how we see the world, the choices we make, our biases, decision-making processes and proclivities.
+    -   BEHAVIOURS can sometimes be intrinsic motivators, but they can often be seen and demonstrated.
+    -   As long as we are here, our Behaviours exist. When we are no longer here, neither are our Behaviours.
     - BEHAVIOURS can be supported and strengthened by external structures - termed CAPABILITIES.
       - _Why not just call them structures?_   Structures didn't begin with a 'C'.   :) 
   - **CAPABILITIES** are things that are external to you and me. They are more often than not tangible and sometimes physical - such as rules, processes, organisational structures, money, metrics, resources, tools and technologies. CAPABILITIES can sometimes be extrinsic motivators.
