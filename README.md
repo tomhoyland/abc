@@ -6,7 +6,7 @@ _The ACHIEVE, BEHAVIOURS, CAPABILITIES **(ABC)** Change Model is a small tool cr
 
 **What is it?**
 
-**ABC** is intended to be a lightweight and memorable coaching, mentoring and consulting tool. It can be used at a variety of levels, from one-on-one coach/client work, within and across teams, and in large-scale organisational change. **ABC** provides a quick and clear way to assess the vision or target state a client would like to ACHIEVE, which enables them to reach an outcome and then looks at what is needed to enable that.  
+**ABC** is intended to be a lightweight and memorable coaching, mentoring and consulting tool. It can be used at a variety of levels, from one-on-one coach/client work, to within and across teams, and in large-scale organisational change. **ABC** provides a quick and clear way to assess the vision or target state a client would like to ACHIEVE, which enables them to reach an outcome and then looks at what is needed to enable that.  
 
 
 
@@ -22,13 +22,14 @@ Facilitators, Coaches, Mentors, Consultants, Product Managers, Mentors, Leaders,
   - **BEHAVIOURS** are internal to you and me.
     - They are the things we pay attention to, how we see the world, the choices we make, how we spend our time, our biases, decision-making processes and proclivities.
     - BEHAVIOURS can sometimes be intrinsic motivators, but they can often be seen and demonstrated.
-    - As long as we are here, our Behaviours exist. When we are no longer here, neither are our Behaviours.
+    - As long as we are here, our BEHAVIOURS exist. When we are no longer here, neither are our BEHAVIOURS.
     - BEHAVIOURS can be supported and strengthened by external structures - termed CAPABILITIES.
       - _Why not just call them structures?_   Structures didn't begin with a 'C'.   :) 
   - **CAPABILITIES** are things that are external to you and me.
     - They are more often than not tangible and sometimes physical.
-    - Capabilities can be rules, processes, organisational structures, money, metrics, resources, incentive and reward systems, hiring practices tools and technologies.
+    - CAPABILITIES can be; rules, processes, organisational structures, money, metrics, resources, incentive and reward systems, hiring practices tools and technologies.
     - CAPABILITIES can sometimes be extrinsic motivators.
+    - When we are no longer here, CAPABILITIES remain.
     - CAPABILITIES can be utilised by our BEHAVIOURS, which can amplify their effectiveness.  
 
 
