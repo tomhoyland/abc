@@ -24,13 +24,13 @@ Facilitators, Coaches, Mentors, Consultants, Product Managers, Mentors, Leaders,
     - BEHAVIOURS can sometimes be intrinsic motivators, but they can often be seen and demonstrated.
     - As long as we are here, our BEHAVIOURS exist. When we are no longer here, neither are our BEHAVIOURS.
     - BEHAVIOURS can be supported and strengthened by external structures - termed CAPABILITIES.
-      - _Why not just call them structures?_   Structures didn't begin with a 'C'.   :) 
   - **CAPABILITIES** are things that are external to you and me.
     - They are more often than not tangible and sometimes physical.
     - CAPABILITIES can be; rules, processes, organisational structures, money, metrics, resources, incentive and reward systems, hiring practices tools and technologies.
     - CAPABILITIES can sometimes be extrinsic motivators.
     - When we are no longer here, CAPABILITIES remain.
-    - CAPABILITIES can be utilised by our BEHAVIOURS, which can amplify their effectiveness.  
+    - CAPABILITIES can be utilised by our BEHAVIOURS, which can amplify their effectiveness.
+    - _Why not just call them structures?_   Structures didn't begin with a 'C'.   :) 
 
 
 
