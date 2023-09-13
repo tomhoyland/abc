@@ -19,10 +19,13 @@ Facilitators, Coaches, Mentors, Consultants, Product Managers, Mentors, Leaders,
 **More Information**
 
 **ABC** builds on the concept that to ACHIEVE an outcome or form of change, be it personal or organisational, it is necessary to invest energy in creating and changing both _BEHAVIOURS_ and _CAPABILITIES_. 
-  - **BEHAVIOURS** are internal to you and me. They are the things we pay attention to, how we see the world, the choices we make, our biases, decision-making processes and proclivities. BEHAVIOURS can sometimes be intrinsic motivators.
+  - **BEHAVIOURS** are internal to you and me.
+  -   They are the things we pay attention to, how we see the world, the choices we make, our biases, decision-making processes and proclivities.
+  -   BEHAVIOURS can sometimes be intrinsic motivators, but they can often be seen and demonstrated.
+  -   As long as we are here, our Behaviours exist. When we are no longer here, neither are our Behaviours.
     - BEHAVIOURS can be supported and strengthened by external structures - termed CAPABILITIES.
       - _Why not just call them structures?_   Structures didn't begin with a 'C'.   :) 
-  - **CAPABILITIES** are things that are external to you and I. They are more often than not tangible and sometimes physical - such as rules, processes, organisational structures, money, metrics, resources, tools and technologies. CAPABILITIES can sometimes be extrinsic motivators.
+  - **CAPABILITIES** are things that are external to you and me. They are more often than not tangible and sometimes physical - such as rules, processes, organisational structures, money, metrics, resources, tools and technologies. CAPABILITIES can sometimes be extrinsic motivators.
     - CAPABILITIES can be utilised by our BEHAVIOURS, which can amplify their effectiveness.  
 
 
@@ -41,7 +44,7 @@ When we invest in one in isolation from the other, an imbalance or debt can occu
 A key concept within **ABC** is that BEHAVIOURS support CAPABILITIES and CAPABILITIES support BEHAVIOURS. There is no linear cause and effect between one and the other. They are seen as entangled and symbiotic. Some have direct effects on the other, others are indirect, and everything in between. 
   - _So why not call it ACB?_   ACB doesn't have the same ring to it as **ABC**.  :) 
 
-But it doesn't end there. It's also possible that as a client unpacks and understands the BEHAVIOURS and CAPABILITIES sought to ACHIEVE an outcome, they may discover that these are not viable, achievable or desirable. This might prompt a reassessment of what they seek to ACHIEVE. B and C also effect A. Again, nothing is simple.
+But it doesn't end there. It's also possible that as a client unpacks and understands the BEHAVIOURS and CAPABILITIES sought to ACHIEVE an outcome, they may discover that these are not viable, achievable or desirable. This might prompt a reassessment of what they seek to ACHIEVE. B and C also affect A. Again, nothing is simple.
 
 
 
