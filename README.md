@@ -1,12 +1,12 @@
 **ABC Change Model**
 
-_The ACHIEVE, BEHAVIOURS, CAPABILITIES **(ABC)** Change Model is a small tool created to help coaches, mentors, consultants and their clients quickly and clearly understand what changes in **BEHAVIOURS** and **CAPABILITIES** are needed to sustainably **ACHIEVE** an outcome, with minimal effort and explanation. **ABC** is designed to be simple and small enough to fit on a bar napkin but can easily scale to be used in a range of contexts._
+_The ACHIEVE, BEHAVIOURS, CAPABILITIES **(ABC)** Change Model is a small tool created to help coaches, mentors, consultants and their clients quickly and clearly understand what changes in **BEHAVIOURS** and **CAPABILITIES** are needed to sustainably **ACHIEVE** an outcome, with minimal effort and explanation. **ABC** is designed to be simple and small enough to fit on a bar napkin, stay in your head and easily scale to be used in a range of contexts._ 
 
 
 
 **What is it?**
 
-**ABC** is intended to be a lightweight and memorable coaching, mentoring and consulting tool. It can be used at a variety of levels, from one-on-one coach/client work, to within and across teams, and in large-scale organisational change. **ABC** provides a quick and clear way to assess the vision or target state a client would like to ACHIEVE, which enables them to reach an outcome and then looks at what is needed to enable that.  
+**ABC** is intended to be a lightweight and memorable coaching, mentoring and consulting tool, providing high value and extensibility, with low energy to adoption. It can be used at a variety of levels, from one-on-one coach/client work, to within and across teams, and in large-scale organisational change. **ABC** provides a quick and clear way to assess the vision or target state a client would like to ACHIEVE, which enables them to reach an outcome and then looks at what is needed to enable that. **ABC is simple on the surface, but has depth.**  
 
 
 
@@ -101,11 +101,11 @@ FYI - it's possible to get into a loop here, but that's ok, we mentioned these t
 3) **ABC can be used in different contexts and is complementary.** It doesn't have prerequisites or form part of any framework. If you like using techniques like Clean Language you can add them into **ABC**. Like Co-Active Coaching? Sure, combine **ABC** with Co-Active too. When working in a team, product or technology context, **ABC** can complement other tools such as Impact Mapping and User Story Mapping, shaping work, clarifying or expanding. The end goal isn't **ABC**, the end goal is helping clients clarify what they need on their path to their end goal.
 4) **ABC is useful throughout a coaching and consulting journey.** ABC can be used at the beginning, middle and end.
 
-   4.1. In early engagements ABC provides a quick way for clients to get started and identify what changes could be explored as part of their journey towards the outcome they want to achieve. This enables an early backlog of experiments, ideas and action to be created, which can be pursued by the client with the consultant, outlining key deliverable.
+   4.1. In early engagements ABC provides a quick way for clients to get started and identify what changes could be explored as part of their journey towards the outcome they want to achieve. This enables an early backlog of experiments, ideas and action to be created, which is balanced between Behaviours and Capabilities, and can be pursued by the client with the consultant, outlining key deliverable, allowing for fast feedback, adjustment and refinement.
 
    4.2. In situations where change programmes are in progress and encountering resistance, or regressing, ABC provides a helpful interuption, providing a simple tool to allow teams leading change and teams experience change to express what Behaviours and/or Capabilities are moving counter to the intent of what an organisation wishes to achieve. This can prompt refinement and adjustment of change strategies and their actions, reducing friction and exposing more of the 'system' to change practitioners.
 
-   > ABC cuts through the noise to reveal what is happening, makes thing more open, allowing the dots to be connected and healthier conversations to happen.
+   > ABC cuts through the noise to reveal what is happening, makes thing more open, allows the dots to be connected and healthier conversations to happen.
 
    4.2.1. As ABC is easy to use, it can quickly be deployed across mulitple groups and different levels of seniority to provide a comprehensive assessment of how a strategy or goal might be achieved. These exercises can reveal when suggested changes to Behaviours and/or Capability determined by one group as supporting the pursuit of an goal, is also a detractor for another group. ABC provides a simple tool to access this information and provide a route for dialogue during periods of change.
 
