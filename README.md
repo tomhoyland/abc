@@ -55,7 +55,9 @@ But it doesn't end there. It's also possible that as a client unpacks and unders
 **Quick Start Guide**
 
 **Bind the Terms**
+
 Before you get going, it's useful to define and explain what the terms Behaviours and Capabilities mean in the context of ABC. These terms may have existing meanings to an individual or organisation, so it's important to bind them to this context.
+
 
 **A) The A - What do you want to ACHIEVE?**  
   
