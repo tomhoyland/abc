@@ -27,6 +27,7 @@ Facilitators, Coaches, Mentors, Consultants, Product Managers, Mentors, Leaders,
     - BEHAVIOURS can be supported and strengthened by external structures - termed CAPABILITIES.
   - **CAPABILITIES** are things that are external to you and me.
     - They are more often than not tangible and sometimes physical.
+    - CAPABILITIES are things that we lean on and that support us.
     - CAPABILITIES can be; rules, processes, organisational structures, money, metrics, resources, incentive and reward systems, hiring practices tools and technologies.
     - CAPABILITIES can sometimes be extrinsic motivators.
     - When we are no longer here, CAPABILITIES remain.
