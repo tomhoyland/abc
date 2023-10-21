@@ -28,7 +28,7 @@ Facilitators, Coaches, Mentors, Consultants, Product Managers, Mentors, Leaders,
   - **CAPABILITIES** are things that are external to you and me.
     - They are more often than not tangible and sometimes physical.
     - CAPABILITIES are things that we lean on, support us and can sustain us during our journey.
-    - CAPABILITIES can be; rules, processes, organisational structures, money, metrics, resources, incentive and reward systems, hiring practices tools and technologies.
+    - CAPABILITIES can be; rules, processes, organisational structures, money, metrics, resources, communities, networks, incentive and reward systems, hiring practices tools and technologies.
     - CAPABILITIES can sometimes be extrinsic motivators.
     - When we are no longer here, CAPABILITIES remain.
     - CAPABILITIES can be utilised by our BEHAVIOURS, which can amplify their effectiveness.
