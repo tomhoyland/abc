@@ -16,7 +16,7 @@ Facilitators, Coaches, Mentors, Consultants, Product Managers, Mentors, Leaders,
 
 
 
-**More Information**
+**Key Concepts**
 
 **ABC** builds on the concept that to ACHIEVE an outcome or form of change, be it personal or organisational, it is necessary to invest energy in creating and changing both _BEHAVIOURS_ and _CAPABILITIES_. 
   - **BEHAVIOURS** are internal to you and me.
@@ -31,11 +31,10 @@ Facilitators, Coaches, Mentors, Consultants, Product Managers, Mentors, Leaders,
     - CAPABILITIES can sometimes be extrinsic motivators.
     - When we are no longer here, CAPABILITIES remain.
     - CAPABILITIES can be utilised by our BEHAVIOURS, which can amplify their effectiveness.
-    - _Why not just call them structures?_   Structures didn't begin with a 'C'.   :) 
 
 
 
-**Even More Information**
+**The Thinking Behind ABC**
 
 For us to successfully ACHIEVE a sustained change towards an outcome, the **ABC** model posits that changes must take place to both BEHAVIOURS and CAPABILITIES. One supports the other. 
 
@@ -105,6 +104,8 @@ FYI - it's possible to get into a loop here, but that's ok, we mentioned these t
    4.1. In early engagements ABC provides a quick way for clients to get started and identify what changes could be explored as part of their journey towards the outcome they want to achieve. This enables an early backlog of experiments, ideas and action to be created, which can be pursued by the client with the consultant, outlining key deliverable.
 
    4.2. In situations where change programmes are in progress and encountering resistance, or regressing, ABC provides a helpful interuption, providing a simple tool to allow teams leading change and teams experience change to express what Behaviours and/or Capabilities are moving counter to the intent of what an organisation wishes to achieve. This can prompt refinement and adjustment of change strategies and their actions, reducing friction and exposing more of the 'system' to change practitioners.
+
+   > ABC cuts through the noise to reveal what is happening, makes thing more open, allowing the dots to be connected and healthier conversations to happen.
 
    4.2.1. As ABC is easy to use, it can quickly be deployed across mulitple groups and different levels of seniority to provide a comprehensive assessment of how a strategy or goal might be achieved. These exercises can reveal when suggested changes to Behaviours and/or Capability determined by one group as supporting the pursuit of an goal, is also a detractor for another group. ABC provides a simple tool to access this information and provide a route for dialogue during periods of change.
 
