@@ -23,15 +23,19 @@ Facilitators, Coaches, Mentors, Consultants, Product Managers, Mentors, Leaders,
     - They are the things we pay attention to, how we see the world, the choices we make, how we spend our time, our biases, decision-making processes and proclivities.
     - BEHAVIOURS can sometimes be intrinsic motivators.
     - BEHAVIOURS are demonstrable activities and can be seen. 
-    - As long as we are here, our BEHAVIOURS exist. When we are no longer here, neither are our BEHAVIOURS.
+    - BEHAVIOURS require time and patience to develop.
     - BEHAVIOURS can be supported and strengthened by external structures - termed CAPABILITIES.
+    - As long as we are here, our BEHAVIOURS exist. When we are no longer here, neither are our BEHAVIOURS.
+
   - **CAPABILITIES** are things that are external to you and me.
     - They are more often than not tangible and sometimes physical.
     - CAPABILITIES are things that we lean on, support us and can sustain us during our journey.
     - CAPABILITIES can be; rules, processes, organisational structures, money, metrics, resources, communities, networks, incentive and reward systems, hiring practices tools and technologies.
     - CAPABILITIES can sometimes be extrinsic motivators.
-    - When we are no longer here, CAPABILITIES remain.
+    - CAPABILITIES can often be purchased, and sometimes quicker to establish.
     - CAPABILITIES can be utilised by our BEHAVIOURS, which can amplify their effectiveness.
+    - When we are no longer here, CAPABILITIES remain.
+
 
 
 
@@ -44,7 +48,7 @@ For us to successfully ACHIEVE a sustained change towards an outcome, the **ABC*
 
 > We shape our tools and, in turn, our tools shape us.
 
-When we invest in one in isolation from the other, an imbalance or debt can occur, e.g. increased energy is directed towards changes in BEHAVIOUR to compensate for the insufficient investment made in changing CAPABILITIES. This might create a scenario where excessive amounts of internal energy, and intrinsic motivation are being invested in maintaining a system, way of working, compensating for the absent structures. Alternatively, a situation might occur where changes are made to CAPABILITIES (processes, tools, or processes example) but without sufficient investment in changes to BEHAVIOURS to support their effective use. This might result in superficial changes to BEHAVIOURS, which when supporting CAPABILITIES are reduced or removed, begin to degrade or regress.
+When we invest in one in isolation from the other, an imbalance or debt can occur, e.g. increased energy is directed towards changes in BEHAVIOUR to compensate for the insufficient investment made in changing CAPABILITIES. This might create a scenario where excessive amounts of internal energy, and intrinsic motivation are being invested in maintaining a system, way of working, compensating for the absent structures - such as metrics, organisational structure, roles or incentive systems. Alternatively, a scenario might occur where changes are made to CAPABILITIES (new processes, tools, or processes are introduced) but without sufficient investment in changes to BEHAVIOURS to support their effective use. This may be expressed whereby new systems and structures are implemented, but teams and organisations do not fully experience their benefit as the requried changes to BEHAVIOURS to use them have not been established or invested in. 
 
 A key concept within **ABC** is that BEHAVIOURS support CAPABILITIES and CAPABILITIES support BEHAVIOURS. There is no linear cause and effect between one and the other. They are seen as entangled and symbiotic. Some have direct effects on the other, others are indirect, and everything in between. 
   - _So why not call it ACB?_   ACB doesn't have the same ring to it as **ABC**.  :) 
