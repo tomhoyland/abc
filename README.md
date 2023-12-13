@@ -21,39 +21,39 @@ Facilitators, Coaches, Mentors, Consultants, Product Managers, Mentors, Leaders,
 **ABC** builds on the concept that to ACHIEVE an outcome or form of change, be it personal or organisational, it is necessary to invest energy in creating and changing both _BEHAVIOURS_ and _CAPABILITIES_. 
   - **BEHAVIOURS** are internal to you and me.
     - They are the things we pay attention to, how we see the world, the choices we make, how we spend our time, our biases, decision-making processes and proclivities.
-    - BEHAVIOURS can sometimes be intrinsic motivators.
-    - BEHAVIOURS are demonstrable activities and can be seen. 
-    - BEHAVIOURS require time and patience to develop.
-    - BEHAVIOURS can be supported and strengthened by external structures - termed CAPABILITIES.
-    - As long as we are here, our BEHAVIOURS exist. When we are no longer here, neither are our BEHAVIOURS.
+    - Behaviours can sometimes be intrinsic motivators.
+    - Behaviours are demonstrable activities and can be seen. 
+    - Behaviours require time and patience to develop.
+    - Behaviours can be supported and strengthened by external structures - termed Capabilities.
+    - As long as we are here, our Behaviours exist. When we are no longer here, neither are our Behaviours.
 
   - **CAPABILITIES** are things that are external to you and me.
     - They are more often than not tangible and sometimes physical.
-    - CAPABILITIES are things that we lean on, support us and can sustain us during our journey.
-    - CAPABILITIES can be; rules, processes, organisational structures, money, metrics, resources, communities, networks, incentive and reward systems, hiring practices tools and technologies.
-    - CAPABILITIES can sometimes be extrinsic motivators.
-    - CAPABILITIES can often be purchased, and sometimes quicker to establish.
-    - CAPABILITIES can be utilised by our BEHAVIOURS, which can amplify their effectiveness.
-    - When we are no longer here, CAPABILITIES remain.
+    - Capabilities are things that we lean on, support us and can sustain us during our journey.
+    - Capabilities can be; rules, processes, organisational structures, money, metrics, resources, communities, networks, incentive and reward systems, hiring practices tools and technologies.
+    - Capabilities can sometimes be extrinsic motivators.
+    - Capabilities can often be purchased, and sometimes quicker to establish.
+    - Capabilities can be utilised by our Behaviours, which can amplify their effectiveness.
+    - When we are no longer here, Capabilities remain.
 
 
 
 
 **The Thinking Behind ABC**
 
-For us to successfully ACHIEVE a sustained change towards an outcome, the **ABC** model posits that changes must take place to both BEHAVIOURS and CAPABILITIES. One supports the other. 
+For us to successfully ACHIEVE a sustained change towards an outcome, the **ABC** model posits that changes must take place to both Behaviours and Capabilities. One supports the other. 
 
-  - For us to take advantage of new or changed CAPABILITIES, e.g. resources, tools, processes and information, we often need to change our BEHAVIOURS. Through the availability of new CAPABILITIES, our BEHAVIOURS themselves are changed. 
-  - For us to support changes in BEHAVIOUR, is it often necessary to create, acquire, change or develop CAPABILITIES that provide us with structures, processes, information or external motivators. As our BEHAVIOURS change, so do our needs of the CAPABILITIES that support them.
+  - For us to take advantage of new or changed Capabilities, e.g. resources, tools, processes and information, we often need to change our Behaviours. Through the availability of new Capabilities, our Behaviours themselves are changed. 
+  - For us to support changes in Behaviour, is it often necessary to create, acquire, change or develop Capabilities that provide us with structures, processes, information or external motivators. As our Behaviours change, so do our needs of the Capabilities that support them.
 
 > We shape our tools and, in turn, our tools shape us.
 
-When we invest in one in isolation from the other, an imbalance or debt can occur, e.g. increased energy is directed towards changes in BEHAVIOUR to compensate for the insufficient investment made in changing CAPABILITIES. This might create a scenario where excessive amounts of internal energy, and intrinsic motivation are being invested in maintaining a system, way of working and compensating for the absent structures - such as metrics, organisational structure, roles or incentive systems. Alternatively, a scenario might occur where changes are made to CAPABILITIES (new processes, tools, or processes are introduced) but without sufficient investment in changes to BEHAVIOURS to support their effective use. This may be expressed whereby new systems and structures are implemented, but teams and organisations do not fully experience their benefit as the required changes to BEHAVIOURS to use them have not been established or invested in. 
+When we invest in one in isolation from the other, an imbalance or debt can occur, e.g. increased energy is directed towards changes in Behaviour to compensate for the insufficient investment made in changing Capabilities. This might create a scenario where excessive amounts of internal energy, and intrinsic motivation are being invested in maintaining a system, way of working and compensating for the absent structures - such as metrics, organisational structure, roles or incentive systems. Alternatively, a scenario might occur where changes are made to Capabilities (new processes, tools, or processes are introduced) but without sufficient investment in changes to Behaviours to support their effective use. This may be expressed whereby new systems and structures are implemented, but teams and organisations do not fully experience their benefit as the required changes to Behaviours to use them have not been established or invested in. 
 
-A key concept within **ABC** is that BEHAVIOURS support CAPABILITIES and CAPABILITIES support BEHAVIOURS. There is no linear cause and effect between one and the other. They are seen as entangled and symbiotic. Some have direct effects on the other, others are indirect, and everything in between. 
+A key concept within **ABC** is that Behaviours support Capabilities and Capabilities support Behaviours. There is no linear cause and effect between one and the other. They are seen as entangled and symbiotic. Some have direct effects on the other, others are indirect, and everything in between. 
   - _So why not call it ACB?_   ACB doesn't have the same ring to it as **ABC**  :) 
 
-But it doesn't end there. It's also possible that as a client unpacks and understands the BEHAVIOURS and CAPABILITIES sought to ACHIEVE an outcome, they may discover that these are not viable, achievable or desirable. This might prompt a reassessment of what they seek to ACHIEVE. B and C also affect A. Again, nothing is simple.
+But it doesn't end there. It's also possible that as a client unpacks and understands the Behaviours and Capabilities sought to ACHIEVE an outcome, they may discover that these are not viable, achievable or desirable. This might prompt a reassessment of what they seek to ACHIEVE. B and C also affect A. Again, nothing is simple.
 
 
 
@@ -77,28 +77,28 @@ Before you get going, it's useful to define and explain what the terms Behaviour
   
   _So, to get there, consider..._
   
-  - What are the BEHAVIOURS we have right now?
+  - What are the Behaviours we have right now?
     - These might be; Biases? Decision Making Processes? Our Choices? What we Pay Attention to? What we Value? How we Engage with and Treat Others? Where we Invest our Time and Energy? Our Diet?
   - Do these move us closer towards or further away from what we want to ACHIEVE?
-  - What BEHAVIOURS need to change or be encouraged in you, your team or your organisation to move us closer to what you want to ACHIEVE?
+  - What Behaviours need to change or be encouraged in you, your team or your organisation to move us closer to what you want to ACHIEVE?
     - What kind(s) of changes are these? Doing more of something? Doing less of something? Stopping something? Starting something?
   - _**BEHAVIOURS are HOW we get there and utilise WHAT we have.**_
 
-  _Now you know this, consider what CAPABILITIES are needed to support these BEHAVIOURS?_
+  _Now you know this, consider what Capabilities are needed to support these Behaviours?_
 
 
 **C) The C - CAPABILITIES**
   
   _So, to get there, consider..._
  
-  - What are the CAPABILITIES, structures or resources we have right now?
+  - What are the Capabilities, structures or resources we have right now?
     - These might be; Processes? Metrics? Rules? Policies? Reward and Recognition Systems? Organisational Structures? Tools? Information? Technologies? Money? Resources and Assets?
   - Do these move us closer towards or pull us further away from what we want to ACHIEVE?
-  - What CAPABILITIES need to change, whether they are in your control, your teams or your organisations, to move us closer to what you want to ACHIEVE?
+  - What Capabilities need to change, whether they are in your control, your teams or your organisations, to move us closer to what you want to ACHIEVE?
     - What kind(s) of changes are these? Changing something? Obtaining Something? Doing more of something? Doing less of something? Stopping something? Starting something?
   - _**CAPABILITIES are WHAT we need to support HOW we get there.**_
 
-  _Now you know this, consider what BEHAVIOURS are needed to utilise these CAPABILITIES?_
+  _Now you know this, consider what Behaviours are needed to utilise these Capabilities?_
 
 FYI - it's possible to get into a loop here, but that's ok, we mentioned these things are often entangled. 
 
@@ -129,4 +129,4 @@ FYI - it's possible to get into a loop here, but that's ok, we mentioned these t
 **Limitations and Notes**
 
 1) This does not consider 'the Why' a person, team or organisation would like to ACHIEVE something. That is for the client and coach to understand as part of the work they do. **ABC** is only concerned with the path to get there. **ABC** can be used at any time in a coaching conversation, but a coach should be mindful to avoid a premature move to action and change before the Problem and Person are understood.
-2) Clients should consider and reflect on whether the BEHAVIOURS and CAPABILITIES identified are 'right for them'. During the use of **ABC** there is a high possibility that a client will uncover that the means to ACHIEVE the outcome being sought does not align with their own values, are not viable or achievable within their constraints or systems.  This is useful information for both parties, providing the opportunity to change assess progress and decide where to go next. 
+2) Clients should consider and reflect on whether the Behaviours and Capabilities identified are 'right for them'. During the use of **ABC** there is a high possibility that a client will uncover that the means to ACHIEVE the outcome being sought does not align with their own values, are not viable or achievable within their constraints or systems.  This is useful information for both parties, providing the opportunity to change assess progress and decide where to go next. 
