@@ -18,7 +18,7 @@ Facilitators, Coaches, Mentors, Consultants, Product Managers, Mentors, Leaders,
 
 **Key Concepts**
 
-**ABC** builds on the concept that to ACHIEVE an outcome or form of change, be it personal or organisational, it is necessary to invest energy in creating and changing both _BEHAVIOURS_ and _CAPABILITIES_. 
+**ABC** builds on the concept that to **ACHIEVE** an outcome or form of change, be it personal or organisational, it is necessary to invest energy in creating and changing both _BEHAVIOURS_ and _CAPABILITIES_. 
   - **BEHAVIOURS** are internal to you and me.
     - They are the things we pay attention to, how we see the world, the choices we make, how we spend our time, our biases, decision-making processes and proclivities.
     - Behaviours can sometimes be intrinsic motivators.
@@ -41,7 +41,7 @@ Facilitators, Coaches, Mentors, Consultants, Product Managers, Mentors, Leaders,
 
 **The Thinking Behind ABC**
 
-For us to successfully ACHIEVE a sustained change towards an outcome, the **ABC** model posits that changes must take place to both Behaviours and Capabilities. One supports the other. 
+For us to successfully Achieve a sustained change towards an outcome, the **ABC** model posits that changes must take place to both Behaviours and Capabilities. One supports the other. 
 
   - For us to take advantage of new or changed Capabilities, e.g. resources, tools, processes and information, we often need to change our Behaviours. Through the availability of new Capabilities, our Behaviours themselves are changed. 
   - For us to support changes in Behaviour, is it often necessary to create, acquire, change or develop Capabilities that provide us with structures, processes, information or external motivators. As our Behaviours change, so do our needs of the Capabilities that support them.
@@ -53,7 +53,7 @@ When we invest in one in isolation from the other, an imbalance or debt can occu
 A key concept within **ABC** is that Behaviours support Capabilities and Capabilities support Behaviours. There is no linear cause and effect between one and the other. They are seen as entangled and symbiotic. Some have direct effects on the other, others are indirect, and everything in between. 
   - _So why not call it ACB?_   ACB doesn't have the same ring to it as **ABC**  :) 
 
-But it doesn't end there. It's also possible that as a client unpacks and understands the Behaviours and Capabilities sought to ACHIEVE an outcome, they may discover that these are not viable, achievable or desirable. This might prompt a reassessment of what they seek to ACHIEVE. B and C also affect A. Again, nothing is simple.
+But it doesn't end there. It's also possible that as a client unpacks and understands the Behaviours and Capabilities sought to Achieve an outcome, they may discover that these are not viable, achievable or desirable. This might prompt a reassessment of what they seek to Achieve. B and C also affect A. Again, nothing is simple.
 
 
 
@@ -79,8 +79,8 @@ Before you get going, it's useful to define and explain what the terms Behaviour
   
   - What are the Behaviours we have right now?
     - These might be; Biases? Decision Making Processes? Our Choices? What we Pay Attention to? What we Value? How we Engage with and Treat Others? Where we Invest our Time and Energy? Our Diet?
-  - Do these move us closer towards or further away from what we want to ACHIEVE?
-  - What Behaviours need to change or be encouraged in you, your team or your organisation to move us closer to what you want to ACHIEVE?
+  - Do these move us closer towards or further away from what we want to Achieve?
+  - What Behaviours need to change or be encouraged in you, your team or your organisation to move us closer to what you want to Achieve?
     - What kind(s) of changes are these? Doing more of something? Doing less of something? Stopping something? Starting something?
   - _**BEHAVIOURS are HOW we get there and utilise WHAT we have.**_
 
@@ -93,8 +93,8 @@ Before you get going, it's useful to define and explain what the terms Behaviour
  
   - What are the Capabilities, structures or resources we have right now?
     - These might be; Processes? Metrics? Rules? Policies? Reward and Recognition Systems? Organisational Structures? Tools? Information? Technologies? Money? Resources and Assets?
-  - Do these move us closer towards or pull us further away from what we want to ACHIEVE?
-  - What Capabilities need to change, whether they are in your control, your teams or your organisations, to move us closer to what you want to ACHIEVE?
+  - Do these move us closer towards or pull us further away from what we want to Achieve?
+  - What Capabilities need to change, whether they are in your control, your teams or your organisations, to move us closer to what you want to Achieve?
     - What kind(s) of changes are these? Changing something? Obtaining Something? Doing more of something? Doing less of something? Stopping something? Starting something?
   - _**CAPABILITIES are WHAT we need to support HOW we get there.**_
 
@@ -120,7 +120,7 @@ FYI - it's possible to get into a loop here, but that's ok, we mentioned these t
    4.2.1. As ABC is easy to use, it can quickly be deployed across multiple groups and different levels of seniority to provide a comprehensive assessment of how a strategy or goal might be achieved. These exercises can reveal when suggested changes to Behaviours and/or Capability determined by one group as supporting the pursuit of a goal, is also a detractor for another group. ABC provides a simple tool to access this information and provide a route for dialogue during periods of change.
 
    4.3. ABC is a useful tool in one-to-one coaching, as coaches and clients move towards action and change. Here, ABC provides useful prompts and considerations for what needs to happen for a client's desired change to happen, be sustained and be successful. 
-5) **ABC can be sliced, lined up and stacked.** **ABC** as a tool is designed to be small and compact. We know that big things often come from small changes. Smaller changes are easier to visualise, convey, decide on the steps to get there, make progress towards, measure that progress and see the result. We can abandon smaller things quicker if they're not right for us, don't feel right or the destination has changed. So like a large Epic that can be broken into smaller User Stories, it's possible to break down a large **ABC** into smaller **ABCs**. **ABCs** can be stacked in a linear way, where one **ABC** leads to another. That means when you ACHIEVE one, you ACHIEVE something. That's banked and a foundation to build on for the next one. You never lose it, it's great for measuring progress and it's great for the client. Or you can have multiple **ABCs** taking place at any one time. This might be more useful in an organisation context, where you aim to ACHIEVE a much larger change (or 'transformation') that requires multiple achievements and outcomes that ladder into each other, becoming greater than the sum of their parts. Remember, bigger isn't always better and simple is easy to convey.
+5) **ABC can be sliced, lined up and stacked.** **ABC** as a tool is designed to be small and compact. We know that big things often come from small changes. Smaller changes are easier to visualise, convey, decide on the steps to get there, make progress towards, measure that progress and see the result. We can abandon smaller things quicker if they're not right for us, don't feel right or the destination has changed. So like a large Epic that can be broken into smaller User Stories, it's possible to break down a large **ABC** into smaller **ABCs**. **ABCs** can be stacked in a linear way, where one **ABC** leads to another. That means when you Achieve one, you Achieve something. That's banked and a foundation to build on for the next one. You never lose it, it's great for measuring progress and it's great for the client. Or you can have multiple **ABCs** taking place at any one time. This might be more useful in an organisation context, where you aim to Achieve a much larger change (or 'transformation') that requires multiple achievements and outcomes that ladder into each other, becoming greater than the sum of their parts. Remember, bigger isn't always better and simple is easy to convey.
 6) **ABC can identify premature optimisation.** It's often the case that individuals, teams and organisations arrive at a solution before understanding the problem and/or the destination they'd like to reach. This is often seen where new products, tools and processes are introduced with limited links to the problems they aim to solve or the outcomes they contribute towards. Situations frequently arise where metrics are identified and implemented, without the prerequisite steps to enable their effective use and the Behaviours required to leverage them. ABC provides a simple method of identifying where solutions in the form of Capabilities or Behaviours are identified in isolation and are mistaken for what needs to be achieved, and quickly identifying how a solution contributes towards an outcome to be Achieved, and what other support should be considered to achieve it successfully and sustainably.
 7) **ABC loves OKRs.** In the modern technology and product world, Objective Key Results (OKRs) are a well-known technique for articulating direction and objective, and the measures of how teams and individuals know they are making progress towards their intended destination. ABC is a helpful model for supporting OKRs and provides a quick and simple way to decompose what Behaviours and Capabilities are needed to Achieve a Key Result. Need to 'Increase Sales by X%'? To do that, what Behaviours need to change? What do we need to increase or decrease? What Behaviours are counter to what we want to Achieve? To support those Behaviours, what Capabilities are required, e.g. tools, organisational, processes and reward systems? And what Capabilities are in place now that might distract from achieving the Key Result? ABC is a quick way of understanding what an individual, team or organisation might need to change to increase their success in reaching an Objective.
 
@@ -128,5 +128,5 @@ FYI - it's possible to get into a loop here, but that's ok, we mentioned these t
 
 **Limitations and Notes**
 
-1) This does not consider 'the Why' a person, team or organisation would like to ACHIEVE something. That is for the client and coach to understand as part of the work they do. **ABC** is only concerned with the path to get there. **ABC** can be used at any time in a coaching conversation, but a coach should be mindful to avoid a premature move to action and change before the Problem and Person are understood.
-2) Clients should consider and reflect on whether the Behaviours and Capabilities identified are 'right for them'. During the use of **ABC** there is a high possibility that a client will uncover that the means to ACHIEVE the outcome being sought does not align with their own values, are not viable or achievable within their constraints or systems.  This is useful information for both parties, providing the opportunity to change assess progress and decide where to go next. 
+1) This does not consider 'the Why' a person, team or organisation would like to Achieve something. That is for the client and coach to understand as part of the work they do. **ABC** is only concerned with the path to get there. **ABC** can be used at any time in a coaching conversation, but a coach should be mindful to avoid a premature move to action and change before the Problem and Person are understood.
+2) Clients should consider and reflect on whether the Behaviours and Capabilities identified are 'right for them'. During the use of **ABC** there is a high possibility that a client will uncover that the means to Achieve the outcome being sought does not align with their own values, are not viable or achievable within their constraints or systems.  This is useful information for both parties, providing the opportunity to change assess progress and decide where to go next. 
